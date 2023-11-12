@@ -1,0 +1,18 @@
+:root{
+    --wild-blue-yonder-50: #f2f6fb;
+    --wild-blue-yonder-100: #e7eff8;
+    --wild-blue-yonder-200: #d4e2f1;
+    --wild-blue-yonder-300: #bacee7;
+    --wild-blue-yonder-400: #9eb3db;
+    --wild-blue-yonder-500: #859acf;
+    --wild-blue-yonder-600: #6a7bbe;
+    --wild-blue-yonder-700: #5b69a7;
+    --wild-blue-yonder-800: #4c5887;
+    --wild-blue-yonder-900: #424c6d;
+    --wild-blue-yonder-950: #262b40;
+    --fuenteGeneral: 'Nunito', sans-serif;
+}
+.app{
+    background-color: var(--wild-blue-yonder-950);
+    overflow-x: hidden;
+}

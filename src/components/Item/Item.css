@@ -1,0 +1,40 @@
+.card{
+    height: 35rem;
+    width: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.img-card{
+    height: 15rem;
+    width: 15rem;
+    object-fit: cover;
+}
+
+.card-body{
+    height:10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.cardNombre{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.cardPrecio{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.btnCard{
+    background-color:var(--wild-blue-yonder-900); 
+    border: none;
+    color: var(--wild-blue-yonder-400);
+    font-weight: 600;
+    align-items: center;
+}
+.btnCard:hover{
+    background-color:var(--wild-blue-yonder-800);
+    transition: .5s;
+}

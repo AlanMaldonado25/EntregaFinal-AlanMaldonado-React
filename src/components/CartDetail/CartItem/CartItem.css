@@ -1,0 +1,20 @@
+
+.cartItemCard{
+    display: flex;
+    background-color: var(--wild-blue-yonder-600);
+    padding: 2rem;
+    border-radius: 1rem;
+    align-items: center;
+    justify-content: space-between;
+}
+.cartCardImg{
+    height: 10rem;
+}
+.cartTitle{
+    font-size: 1.5rem;
+    width: 35rem;
+}
+.cartCantidad,.cartPrice,.cartTotal{
+    font-size: 1.2rem;
+    font-weight: 500;
+}

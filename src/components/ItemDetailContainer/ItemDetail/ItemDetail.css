@@ -1,0 +1,77 @@
+.itemDetail{
+    padding-top: 10rem;
+    font-family: var(--fuentePrincipal);
+    height: 100vh;
+}
+.itemCard{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--wild-blue-yonder-300);
+    padding: 2rem;
+    border-radius: .5rem;
+}
+.imgCointainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.itemImg{
+    height: 20rem;
+}
+
+.cardPrice{
+    font-size: 1.8rem;
+    font-weight: 700;
+    padding: .5rem;
+    background-color: var(--wild-blue-yonder-100);
+    border-radius: .5rem;
+}
+.itemName{
+    font-size: 2rem;
+}
+.contador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    .numero{
+        font-size: 1.6rem;
+        margin: 0;
+    }
+    .btnContador{
+        font-size: 1.6rem;
+        background: transparent;
+        border: none;
+    }
+}
+.btnAdd{
+    background-color: var(--wild-blue-yonder-800);
+    padding: .5rem;
+    color: var(--wild-blue-yonder-100);
+    border: none;
+    border-radius: .5rem;
+    margin-top: 1rem;
+
+}
+.btnAdd:hover{
+    background-color: var(--wild-blue-yonder-600);
+    transition: .5s;
+}
+.btnVolver{
+    text-transform: uppercase;
+    background-color: var(--wild-blue-yonder-800);
+    padding: .5rem;
+    color: var(--wild-blue-yonder-100);
+    border: none;
+    border-radius: .5rem;
+    margin-top: 1rem;
+}
+.btnVolver:hover{
+    background-color: var(--wild-blue-yonder-600);
+    transition: .5s;
+}
+.cardStock{
+    font-size: 1.5rem;
+}

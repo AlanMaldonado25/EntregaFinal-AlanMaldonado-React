@@ -1,0 +1,8 @@
+.cartDetail{
+    background-color: var(--wild-blue-yonder-950);
+    height: 100vh;
+    padding: 10rem 3rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+}

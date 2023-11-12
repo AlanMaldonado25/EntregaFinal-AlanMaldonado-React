@@ -1,0 +1,14 @@
+.msjContainer{
+    background-color: var(--wild-blue-yonder-950);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.msj{
+    background-color: var(--wild-blue-yonder-600);
+    padding: 4rem;
+    border-radius: .5rem;
+}

@@ -1,0 +1,960 @@
+[
+	{
+		"id": 1,
+		"name": "Tarjeta Madre Asus Rog B550-f Gaming (wi-fi) Ii Socket Am4",
+		"precio_antiguo": 319999,
+		"precio_actual": 279359,
+		"img": "https://dlcdnwebimgs.asus.com/gain/7824F54B-F202-46C5-B170-6F84EAF36061",
+		"stock": 20,
+		"description": {
+			"marca": "Asus",
+			"linea": "ROG Strix",
+			"modelo": "ROG B550-F GAMING (WI-FI)",
+			"version": 2.0,
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "B550-F",
+			"socket": "Am4",
+			"ranuras": "M.2.pcie",
+			"procesador": "no",
+			"ram": "DDR4",
+			"max-ram": "128 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 2,
+		"name": "Placa Madre Asrock A520m-hdv Color Negro",
+		"precio_antiguo": 120000,
+		"precio_actual": 96029,
+		"img": "https://www.asrock.com/mb/photo/A520M-HDV(M1).png",
+		"stock": 20,
+		"description": {
+			"marca": "ASRock",
+			"linea": "A520",
+			"modelo": "A520M-HDV",
+			"version": 1.0,
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "A520",
+			"socket": "Am4",
+			"ranuras": 2,
+			"procesador": "no",
+			"ram": "DDR4",
+			"max-ram": "64 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 3,
+		"name": "Placa Msi A520m-a Pro Amd Ryzen 4000-g Series Y 3era Generac",
+		"precio_antiguo": 120000,
+		"precio_actual": 97424,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_727936-MLA54518416638_032023-O.webp",
+		"stock": 20,
+		"description": {
+			"marca": "MSI",
+			"linea": "A520M",
+			"modelo": "A520M-A PRO",
+			"version": "pro",
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "Amd A520",
+			"socket": "Am4 Amd",
+			"ranuras": 2,
+			"procesador": "no",
+			"ram": "DDR4",
+			"max-ram": "64 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 4,
+		"name": "Motherboard Gamer Asus Rog Strix B550-a Gaming Am4 Ryzen Pc",
+		"precio_antiguo": 370000,
+		"precio_actual": 346104,
+		"img": "https://s3-sa-east-1.amazonaws.com/saasargentina/zwCBEcDvwviVVfTihsG6/imagen",
+		"stock": 20,
+		"description": {
+			"marca": "Asus",
+			"linea": "B550",
+			"modelo": "ROG STRIX B550-A GAMING",
+			"version": 1.0,
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "B550",
+			"socket": "Socket Am4",
+			"ranuras": "1 x PCI Express 3.0 x16",
+			"procesador": "Soporta RYZEN",
+			"ram": "DDR4",
+			"max-ram": "128 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 5,
+		"name": "Tarjeta Madre Biostar A520mh Socket Am4 Ddr4 Micro Atx Color Negro",
+		"precio_antiguo": 114999,
+		"precio_actual": 79349,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_635747-MLU70498986386_072023-O.webp",
+		"stock": 20,
+		"description": {
+			"marca": "Biostar",
+			"linea": "",
+			"modelo": "A520MH",
+			"version": 1.0,
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "",
+			"socket": "Am4",
+			"ranuras": "1",
+			"procesador": "no",
+			"ram": "DDR4",
+			"max-ram": "64 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 6,
+		"name": "Motherboard Gigabyte B550m Ds3h Ac Amd Am4 Ddr4 Wifi",
+		"precio_antiguo": 170000,
+		"precio_actual": 140232,
+		"img": "https://www.venex.com.ar/products_images/1653935797_ujyu.png",
+		"stock": 20,
+		"description": {
+			"marca": "Gigabyte",
+			"linea": "Ultra Durable",
+			"modelo": "B550M DS3H AC",
+			"version": "rev.1.2",
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "B550",
+			"socket": "Am4",
+			"ranuras": 1,
+			"procesador": "no",
+			"ram": "DDR4",
+			"max-ram": "128 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 7,
+		"name": "Tarjeta Madre Gigabyte A620m Gaming X Amd Am5 Ddr5 Micro Atx Color Negro",
+		"precio_antiguo": 159999,
+		"precio_actual": 139671,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_627984-MLU70841260148_082023-O.webp",
+		"stock": 20,
+		"description": {
+			"marca": "Gigabyte",
+			"linea": "",
+			"modelo": "A620M GAMING X",
+			"version": "Gaming X",
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "Amd a620",
+			"socket": "Am5",
+			"ranuras": 1,
+			"procesador": "no",
+			"ram": "DDR5",
+			"max-ram": "192 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 8,
+		"name": "Tarjeta Madre Asus Tuf Gaming B660m-plus Wifi D4 1700 Ddr4",
+		"precio_antiguo": 270000,
+		"precio_actual": 244431,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_989046-MLU69159334316_042023-O.webp",
+		"stock": 20,
+		"description": {
+			"marca": "Asus",
+			"linea": "TUF Gaming",
+			"modelo": "B660M-PLUS WIFI D4",
+			"version": "",
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "Intel",
+			"chipsets": "Intel B660",
+			"socket": "Lga",
+			"ranuras": "1 ranura pcie 4.0x1.1",
+			"procesador": "no",
+			"ram": "DDR4",
+			"max-ram": "128 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 9,
+		"name": "Mother Y Micro Integrado Asus J4005i-c Intel Dual Core Ddr4 Color Negro",
+		"precio_antiguo": 100000,
+		"precio_actual": 83999,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_995504-MLU69916058588_062023-O.webp",
+		"stock": 20,
+		"description": {
+			"marca": "Asus",
+			"linea": "Prime",
+			"modelo": "J4005I-C",
+			"version": "",
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "Intel",
+			"chipsets": "",
+			"socket": "",
+			"ranuras": "",
+			"procesador": "si",
+			"cpu": "IntelCeleron Dual-Core J4005",
+			"ram": "DDR4",
+			"max-ram": "8 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 10,
+		"name": "Board Asrock B650m Pg Riptide Am5 Procesadores Ryzen 7ma Color Negro",
+		"precio_antiguo": 350000,
+		"precio_actual": 306286,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_984361-MLA69761846793_062023-W.jpg",
+		"stock": 20,
+		"description": {
+			"marca": "AsRock",
+			"linea": "Riptide",
+			"modelo": "B650M PG",
+			"version": "10",
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "AMD",
+			"chipsets": "B650",
+			"socket": "AM5",
+			"ranuras": "2",
+			"procesador": "no",
+			"cpu": "N/a",
+			"ram": "DDR5",
+			"max-ram": "128 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 11,
+		"name": "Board Asrock Z790 Pg Sonic",
+		"precio_antiguo": 599999,
+		"precio_actual": 528000,
+		"img": "https://www.asrock.com/mb/photo/Z790%20PG%20SONIC(M1).png",
+		"stock": 20,
+		"description": {
+			"marca": "AsRock",
+			"linea": "Pg Sonic",
+			"modelo": "Z790 PG SONIC",
+			"version": "",
+			"color": "negro"
+		},
+		"caracteristicas": {
+			"plataforma": "Intel",
+			"chipsets": "Intel Z790",
+			"socket": "Lga1700",
+			"ranuras": "5",
+			"procesador": "no",
+			"cpu": "Soporta intel core 13°",
+			"ram": "DDR5",
+			"max-ram": "128 GB"
+		},
+		"categoria": "mothers"
+	},
+	{
+		"id": 12,
+		"name": "Disco sólido interno Kingston SA400S37/240G 240GB negro",
+		"precio_antiguo": 32000,
+		"precio_actual": 25174,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_792045-MLA54923442215_042023-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "Considerado un dispositivo de alto rendimiento, la unidad en estado sólido A400 de Kingston está diseñada para las personas más exigentes. Mejora de forma notable la capacidad de respuesta de su sistema, ya que alcanza velocidades de lectura/escritura de hasta 500MB/seg y 450MB/seg. Por ende, es 10 veces más rápido que un disco duro tradicional.Al estar compuesta por una memoria flash es silenciosa y posee pocas probabilidades de tener fallas.",
+			"capacidad": "240GB",
+			"interfaces": "SATA 3",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC,Notebook",
+			"factor": "2.5'"
+		},
+		"categoria":"almacenamiento"
+	},
+	{
+		"id": 13,
+		"name": "Disco sólido interno Kingston SA400S37/480G 480GB negro",
+		"precio_antiguo": 42000,
+		"precio_actual": 36500,
+		"img": "https://baproar.vtexassets.com/arquivos/ids/390787/image-52a3e816c667405d88f51ebb49ec1d4e.jpg?v=638292000380570000",
+		"stock": 20,
+		"description": {
+			"texto": "Considerado un dispositivo de alto rendimiento, la unidad en estado sólido A400 de Kingston está diseñada para las personas más exigentes. Mejora de forma notable la capacidad de respuesta de su sistema, ya que alcanza velocidades de lectura/escritura de hasta 500MB/seg y 450MB/seg. Por ende, es 10 veces más rápido que un disco duro tradicional.Al estar compuesta por una memoria flash es silenciosa y posee pocas probabilidades de tener fallas.",
+			"capacidad": "480GB",
+			"interfaces": "SATA 3",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC,Notebook",
+			"factor": "2.5'"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 14,
+		"name": "Disco sólido interno Kingston SA400S37/960G 960GB",
+		"precio_antiguo": 56000,
+		"precio_actual": 51980,
+		"img": "https://acdn.mitiendanube.com/stores/001/850/441/products/ssd-kingston-a400-960gb-principal1-9735efe60bf52ef5df16637090139137-1024-1024.png",
+		"stock": 20,
+		"description": {
+			"texto": "Considerado un dispositivo de alto rendimiento, la unidad en estado sólido A400 de Kingston está diseñada para las personas más exigentes. Mejora de forma notable la capacidad de respuesta de su sistema, ya que alcanza velocidades de lectura/escritura de hasta 500MB/seg y 450MB/seg. Por ende, es 10 veces más rápido que un disco duro tradicional.Al estar compuesta por una memoria flash es silenciosa y posee pocas probabilidades de tener fallas.",
+			"capacidad": "960GB",
+			"interfaces": "SATA 3",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC,Notebook",
+			"factor": "2.5'"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 15,
+		"name": "Disco Solido Ssd 1tb M.2 Kingston Snv2s/1000g Nvme Pcie 4.0",
+		"precio_antiguo": 70000,
+		"precio_actual": 60000,
+		"img": "https://arrichetta.com.ar/wp-content/uploads/2022/10/SNV2S-1000G_1.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Líder en el mercado de tecnologías, Kingston ofrece una gran variedad de dispositivos de almacenamiento. Su calidad y especialización en discos de estado sólido (SSD), de memoria y de USB cifrados la convierten una de las opciones más elegidas en el mercado internacional.",
+			"capacidad": "1000GB",
+			"interfaces": "NVMe PCle Gen 4x4",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC,Notebook",
+			"factor": "M.2 2280"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 16,
+		"name": "Kingston SNV2S/500G 500 GB - Azul",
+		"precio_antiguo": 45000,
+		"precio_actual": 39999,
+		"img": "https://www.cyberdyne.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SA2000M8-500G_800.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Mejora el rendimiento de tu computadora con el Disco sólido interno Kingston SNV2S/500G de 500GB en color azul. Este SSD de alta calidad cuenta con una capacidad de 500 GB, lo que te permitirá almacenar una gran cantidad de archivos, documentos, fotos y videos. Gracias a su tecnología de almacenamiento SSD y su interfaz NVMe PCIe Gen 4x4, disfrutarás de velocidades de lectura de hasta 3500 MB/s y de escritura de hasta 2100 MB/s, lo que se traduce en un rendimiento superior y tiempos de carga más rápidos en tus aplicaciones y juegos favoritos. Además, su factor de forma M.2 2280 lo hace compatible con una amplia variedad de dispositivos y sistemas, facilitando su instalación y adaptándose a tus necesidades. No esperes más y dale a tu computadora el impulso que necesita con el Disco sólido interno Kingston SNV2S/500G.",
+			"capacidad": "500GB",
+			"interfaces": "NVMe PCle Gen 4x4",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC,Notebook",
+			"factor": "M.2 2280"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 17,
+		"name": "Disco sólido interno Western Digital WD Green WDS240G3G0A 240GB verde",
+		"precio_antiguo": 31000,
+		"precio_actual": 27953,
+		"img": "https://www.venex.com.ar/products_images/1585758761_ssd_240gb_wd_green_sata.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Western Digital es una marca de renombre mundial en almacenamiento de datos con la cual podés crear, experimentar y guardar contenidos a través de una amplia gama de dispositivos. La alta seguridad y rendimiento que brindan sus unidades la convierten en una de las empresas más elegidas del mercado.El WD Green WDS240G3G0A está adaptado para que puedas acceder de forma rápida a tus documentos digitales gracias a su tecnología en estado sólido.",
+			"capacidad": "240GB",
+			"interfaces": "SATA 3",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC,Notebook",
+			"factor": "M.2 2280"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 18,
+		"name": "Disco sólido interno Crucial CT240BX500SSD1 240GB negro",
+		"precio_antiguo": 31000,
+		"precio_actual": 25046,
+		"img": "https://mlqckb8p27tm.i.optimole.com/cb:rNiL.2ae13/w:auto/h:auto/q:mauto/f:best/https://i0.wp.com/serotech.com.co/wp-content/uploads/2023/09/2TB-removebg-preview.png?fit=500%2C394&ssl=1",
+		"stock": 20,
+		"description": {
+			"texto": "Con este disco sólido de Crucial podrás acelerar la carga de archivos en tu computadora. Su óptimo rendimiento presenta velocidades de escritura de hasta 500 MB/s y lectura de hasta 540 MB/s. A su vez, su formato de fácil instalación y diseño compacto lo convierten en un dispositivo ideal para potenciar tu PC.",
+			"capacidad": "240GB",
+			"interfaces": "SATA 3",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC,Notebook",
+			"factor": "M.2 2280"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 19,
+		"name": "Disco sólido interno PNY SSD7CS900-250-RB 250GB",
+		"precio_antiguo": 30000,
+		"precio_actual": 23045,
+		"img": "https://www.digitarinformatica.com.ar/wp-content/uploads/2022/10/Disco-SSD-PNY-250GB-CS900.webp",
+		"stock": 20,
+		"description": {
+			"texto": "Con la unidad en estado sólido PNY vas a incrementar la capacidad de respuesta de tu equipo. Gracias a esta tecnología podrás invertir en velocidad y eficiencia para el inicio, la carga y la transferencia de datos.",
+			"capacidad": "250GB",
+			"interfaces": "SATA 3,SATA 2",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "SSD",
+			"aplicaciones": "PC",
+			"factor": "2.5'"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 20,
+		"name": "Disco duro externo Toshiba Canvio Basics HDTB510XK3AA 1TB negro",
+		"precio_antiguo": 90000,
+		"precio_actual": 82564,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_713622-MLU70035870219_062023-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "Si estás buscando un disco duro para mejorar el rendimiento de tu equipo, el Toshiba HDTB510XK3AA es lo que necesitás. Al ser HDD, su practicidad y valor económico respecto a otros tipos de discos marcan la diferencia.",
+			"capacidad": "1TB",
+			"interfaces": "USB 3.0",
+			"velocidad": "",
+			"tecnologia": "HDD",
+			"aplicaciones": "PC",
+			"factor": "Exteno"
+		},
+		"categoria": "almacenamiento"
+	},
+	{
+		"id": 21,
+		"name": "Memoria RAM Fury Beast DDR4 gamer color negro 8GB 1 Kingston KF432C16BB/8",
+		"precio_actual": 26548,
+		"img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-kit4-1-sm.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Si tu computadora funciona con lentitud, si un programa no responde o no se carga, lo más probable es que se trate de un problema de memoria. Estos son posibles indicios de un rendimiento defectuoso en el día a día de tus tareas. Por ello, contar con una memoria Kingston -sinónimo de trayectoria y excelencia- mejorará la productividad de tu equipo: las páginas se cargarán más rápido y la ejecución de nuevas aplicaciones resultará más ágil y simple.",
+			"capacidad": "8GB",
+			"velocidad": "3200 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 22,
+		"name": "Memoria Ram Fury Beast Ddr4 Gamer Color Negro 16gb 1 Kingston Kf432c16bb/16",
+		"precio_actual": 47290,
+		"img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-kit4-1-sm.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Mejora tu experiencia de juego con la Memoria RAM Fury Beast de Kingston, diseñada especialmente para gamers. Con una capacidad de 16 GB y una velocidad de 3200 MHz, esta memoria DDR4 SDRAM te permitirá disfrutar de tus juegos favoritos sin interrupciones ni demoras. Su formato UDIMM y sus 288 pines aseguran una fácil instalación y compatibilidad con sistemas AMD e Intel. Además, cuenta con la certificación Intel XMP, lo que garantiza un rendimiento óptimo y estable en tus sesiones de juego. La latencia CAS de 16 y el voltaje de alimentación de 1.35V ofrecen un equilibrio perfecto entre rendimiento y eficiencia energética. No esperes más para llevar tu experiencia gamer al siguiente nivel con la Memoria RAM Fury Beast de Kingston.",
+			"capacidad": "16GB",
+			"velocidad": "3200 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 23,
+		"name": "Memoria RAM Basics color verde 8GB 1 Crucial CB8GU2666",
+		"precio_actual": 21300,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_764669-MLA49041660500_022022-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "Una actualización de memoria es una de las formas más rápidas, fáciles y económicas de mejorar de manera inmediata el rendimiento de tu computadora. Ya sea para un ordenador portátil, de escritorio o una estación de trabajo que funciona lento y relentiza tus actividades, instalar más memoria tomará solo unos minutos y te brindará soluciones inmediatas y duraderas a corto, mediano y largo plazo. Acelerá y extendé la vida útil del sistema y aprovechá la capacidad de respuesta que te da para trabajar de manera simple y confortable. No lo dudes más, la memoria Crucial es una de las formas más accesibles para aumentar de manera fácil la capacidad multitarea de tu computadora.",
+			"capacidad": "8GB",
+			"velocidad": "2666 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 24,
+		"name": "Memoria RAM Fury Beast DDR4 RGB gamer color negro 8GB 1 Kingston KF432C16BBA/8",
+		"precio_actual": 30000,
+		"img": "https://media.kingston.com/kingston/product/FURY_Beast_RGB_Black_DDR4_4_angle-zm-lg.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Si tu computadora funciona con lentitud, si un programa no responde o no se carga, lo más probable es que se trate de un problema de memoria. Estos son posibles indicios de un rendimiento defectuoso en el día a día de tus tareas. Por ello, contar con una memoria Kingston -sinónimo de trayectoria y excelencia- mejorará la productividad de tu equipo: las páginas se cargarán más rápido y la ejecución de nuevas aplicaciones resultará más ágil y simple.",
+			"capacidad": "8GB",
+			"velocidad": "3200 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 25,
+		"name": "Memoria RAM color verde 8GB 1 Golden Memory GM16N11/8",
+		"precio_actual": 30000,
+		"img": "https://app.contabilium.com/files/explorer/35452/Productos-Servicios/concepto-9203220.png",
+		"stock": 20,
+		"description": {
+			"texto": "Si tu computadora funciona con lentitud, si un programa no responde o no se carga, lo más probable es que se trate de un problema de memoria. Estos son posibles indicios de un rendimiento defectuoso en el día a día de tus tareas. Por ello, contar con una memoria Kingston -sinónimo de trayectoria y excelencia- mejorará la productividad de tu equipo: las páginas se cargarán más rápido y la ejecución de nuevas aplicaciones resultará más ágil y simple.",
+			"capacidad": "8GB",
+			"velocidad": "1600 MHZ",
+			"tecnologia": "DDR3",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 26,
+		"name": "Kingston Fury Beast DDR4 RGB KF432C16BBA/16 1 16 GB - Negro - RGB",
+		"precio_actual": 61400,
+		"img": "https://ae01.alicdn.com/kf/S25493bfcc5dd4208912660894271ba72J/Kingston-FURY-Beast-RAM-RGB-8GB-16GB-3200MHz-DDR4-RAMs-CL16-Desktop-Memory-Single-Stick-KF432C16BBA.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Mejora tu experiencia de juego con la Memoria RAM Fury Beast DDR4 RGB de Kingston, diseñada especialmente para gamers. Con una capacidad de 16 GB y una velocidad de 3200 MHz, esta memoria te permitirá disfrutar de un rendimiento óptimo en tus juegos favoritos. Además, su tecnología DDR4 SDRAM garantiza una mayor eficiencia energética y un menor consumo de energía.",
+			"capacidad": "16GB",
+			"velocidad": "3200 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 27,
+		"name": "Memoria RAM Fury Beast DDR4 gamer color negro 8GB 1 Kingston KF426C16BB/8",
+		"precio_actual": 26500,
+		"img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-kit4-1-sm.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Si tu computadora funciona con lentitud, si un programa no responde o no se carga, lo más probable es que se trate de un problema de memoria. Estos son posibles indicios de un rendimiento defectuoso en el día a día de tus tareas. Por ello, contar con una memoria Kingston -sinónimo de trayectoria y excelencia- mejorará la productividad de tu equipo: las páginas se cargarán más rápido y la ejecución de nuevas aplicaciones resultará más ágil y simple.",
+			"capacidad": "8GB",
+			"velocidad": "2666 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 28,
+		"name": "Memoria RAM 4GB 1 Samsung M378B5173QH0-CK0",
+		"precio_actual": 17999,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_957652-MLA26483062464_122017-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "Una forma rápida de mejorar el rendimiento de tu computadora, sea portátil o de escritorio, sin duda es agregar más memoria. Samsung, empresa reconocida a nivel internacional y con larga trayectoria en el mundo tecnológico, te acerca lo mejor en calidad, velocidad y soporte con sus memorias ram. Realizar múltiples tareas y trabajar con varias aplicaciones a la vez son dos actividades que van a ir de la mano con la instalación de esta nueva memoria. Solo 5 minutos para que la instales y conseguirás aumentar la capacidad multitarea de tu computadora.",
+			"capacidad": "4GB",
+			"velocidad": "1600 MHZ",
+			"tecnologia": "DDR3",
+			"aplicaciones": "Pc",
+			"formato": "UDIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 29,
+		"name": "Memoria RAM ValueRAM color verde 8GB 1 Kingston KVR32S22S6/8",
+		"precio_actual": 27400,
+		"img": "https://www.impacto.com.pe/storage/products/md/16902279001638.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Kingston es sinónimo de trayectoria y excelencia en el mercado tecnológico, principalmente en lo que a memorias ram refiere. Mejorar la capacidad y rendimiento de tu computadora va a ser fácil con la incorporación de una memoria de la línea ValueRAM, que cubrirá todas tus necesidades. Dispará la productividad y ejecutá tus programas y aplicaciones con mayor velocidad.",
+			"capacidad": "8GB",
+			"velocidad": "3200 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Notebooks",
+			"formato": "SODIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 30,
+		"name": "Memoria RAM Fury Impact DDR4 gamer color negro 8GB 1 Kingston KF432S20IB/8",
+		"precio_actual": 40625,
+		"img": "https://bigtechchile.cl/cdn/shop/files/Producto_5_e6f4d825-c555-43ab-a7f4-7f9644679257_1200x1200.png?v=1693959143",
+		"stock": 20,
+		"description": {
+			"texto": "Si tu computadora funciona con lentitud, si un programa no responde o no se carga, lo más probable es que se trate de un problema de memoria. Estos son posibles indicios de un rendimiento defectuoso en el día a día de tus tareas. Por ello, contar con una memoria Kingston -sinónimo de trayectoria y excelencia- mejorará la productividad de tu equipo: las páginas se cargarán más rápido y la ejecución de nuevas aplicaciones resultará más ágil y simple.",
+			"capacidad": "8GB",
+			"velocidad": "3200 MHZ",
+			"tecnologia": "DDR4 SDRAM",
+			"aplicaciones": "Notebooks",
+			"formato": "SODIMM"
+		},
+		"categoria": "RAM"
+	},
+	{
+		"id": 31,
+		"name": "AMD Ryzen 5 5600G 100-100000252BOX",
+		"precio_actual": 173145,
+		"img": "https://intercompras.com/images/product/AMD_100-100000252BOX.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "Mejora tu experiencia de juego con el Procesador gamer AMD Ryzen 5 5600G, diseñado para brindarte un rendimiento excepcional en tus juegos favoritos. Con sus 6 núcleos y 12 hilos, este procesador te permitirá disfrutar de una multitarea fluida y eficiente. Gracias a su arquitectura x86-64 y litografía de 7 nm, obtendrás un rendimiento óptimo con un menor consumo de energía.",
+			"ram-soportada": "DDR4",
+			"nucleos": 6,
+			"sockets": "AM4",
+			"generacion": 5,
+			"frecuencia-max": "4.4 GHz",
+			"frecuencia-min": "3.9 GHz",
+			"marca": "AMD",
+			"modelo": "5600G"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 32,
+		"name": "Microprocesador Pc Amd Ryzen 5 4600g 8mb 3.7ghz Socket Am4 100-100000147box 6 Nucleos 12 Hilos",
+		"precio_actual": 119500,
+		"img": "https://www.qloud.ar/SITES/IMG/mundo-hardware-01-2021/tumb_201_28-01-2023-10-01-23-am4826pr-1-removebg-preview.png",
+		"stock": 20,
+		"description": {
+			"texto": "AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.",
+			"ram-soportada": "DDR4",
+			"nucleos": 6,
+			"sockets": "AM4",
+			"generacion": 4,
+			"frecuencia-max": "4.2 GHz",
+			"frecuencia-min": "3.7 GHz",
+			"marca": "AMD",
+			"modelo": "4600G"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 33,
+		"name": "Procesador AMD Ryzen 7 5700G 100-100000263BOX de 8 núcleos y 4.6GHz de frecuencia con gráfica integrada",
+		"precio_actual": 277999,
+		"img": "https://mla-s1-p.mlstatic.com/940934-MLU47593217192_092021-F.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.",
+			"ram-soportada": "DDR4",
+			"nucleos": 8,
+			"sockets": "AM4",
+			"generacion": 5,
+			"frecuencia-max": "4.6 GHz",
+			"frecuencia-min": "3.8 GHz",
+			"marca": "AMD",
+			"modelo": "4600G"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 34,
+		"name": "AMD Ryzen 3 3200G YD3200C5FHBOX",
+		"precio_actual": 118346,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_873867-MLA54354748945_032023-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.",
+			"ram-soportada": "DDR4",
+			"nucleos": 4,
+			"sockets": "AM4",
+			"generacion": 2,
+			"frecuencia-max": "4 GHz",
+			"frecuencia-min": "3.6 GHz",
+			"marca": "AMD",
+			"modelo": "4600G"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 35,
+		"name": "Procesador gamer AMD Ryzen 3 4100 100-100000510BOX de 4 núcleos y 4GHz de frecuencia",
+		"precio_actual": 87499,
+		"img": "https://http2.mlstatic.com/D_Q_NP_709815-MLA53109755837_122022-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.",
+			"ram-soportada": "DDR4",
+			"nucleos": 4,
+			"sockets": "AM4",
+			"generacion": 4,
+			"frecuencia-max": "4 GHz",
+			"frecuencia-min": "3.8 GHz",
+			"marca": "AMD",
+			"modelo": "4600G"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 36,
+		"name": "Micro Procesador Ryzen 5 4500 6 Nucleos 4.1ghz Amd Ddr4 Pc",
+		"precio_actual": 149940,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCzUv_ECgyBDBc7VrJlYKb6xe_3SnHrkLJgnU3juslMOHwoHW8y9GyrzBpbakZHeUL_4&usqp=CAU",
+		"stock": 20,
+		"description": {
+			"texto": "AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.",
+			"ram-soportada": "DDR4",
+			"nucleos": 6,
+			"sockets": "AM4",
+			"generacion": 4,
+			"frecuencia-max": "4.1 GHz",
+			"frecuencia-min": "3.6 GHz",
+			"marca": "AMD",
+			"modelo": "4500G"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 37,
+		"name": "Procesador gamer AMD Ryzen 5 5600X 100-100000065BOX de 6 núcleos y 4.6GHz de frecuencia",
+		"precio_actual": 248999,
+		"img": "https://http2.mlstatic.com/D_Q_NP_806834-MLA44347094824_122020-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.",
+			"ram-soportada": "DDR4",
+			"nucleos": 6,
+			"sockets": "AM4",
+			"generacion": 5,
+			"frecuencia-max": "4.6 GHz",
+			"frecuencia-min": "3.7 GHz",
+			"marca": "AMD",
+			"modelo": "5600x"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 38,
+		"name": "Intel Core i5 i5-10400F BX8070110400F",
+		"precio_actual": 171184,
+		"img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhUTEhIVFRUVFRYVFhcVFRcVFRcVFxYXFxUVGBUYHiggGBolHRcVITEhJSkrLi4uFx8zODM4NygtLisBCgoKDg0OGhAQGi0lHyUtLS0tLS0tLSstLS0tLS0tLS0tLS0vLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tL//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcCAQj/xABMEAACAQMCAgQKBAoHCAMBAAABAgMABBEFEiExBhMiUQcUIzJBYXFygbEzkaGyFSRSU3OCkpPB0TRClLPC0uEWQ2J0g6LD8ERjhCX/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAgMEAQUG/8QANREAAgECBAIIAwgDAQAAAAAAAAECAxEEEiExQVEiYXGBkaGxwRMz0TI0QmKSsuHwBSNSFP/aAAwDAQACEQMRAD8A7jSlaOoalDDs619vWMETgTljyHAHHxrqTbskclJRV2b1R19rVtBwlmjQ/klhu/ZHH7KwS6ZJKT18rbPRFETGmO5nHbc/FR6qywWNpbAbY4osnAOFUk9248Sanlgt232fV/R9pW5TeyS7fovqjS/2utD5vWuO9IJSPr215/2xsQcO7Rk/nIpF+0rirFWhrOoQwRF5/o8gHsluZwOABqS+HJ2UX3PX9vsRkqkY3c1p+XT93uZ7S7jlXdG6uvejBh9YrYqkavpiRlriwPVTRqJHRQRHIhGcFOWcZOB8+Is+h6ktzBHMoxvXJHcwOGHwIIpOklFTi9OvdPr9nxFOreThLfq1T7PdcCQpSlUl4pSlAKUpQClKUApSlAKUpQClK0bpcyID+RJ846A3qVGyW6/kj6hUddKq8BGXbuULn4lsBefpPH0UBY6VS5Y5vRBD8ZcHl6cRED6zWOwu42bY0ahsbh5jqy4HaRhzHEZyARkcOIyBeKVW5Yo+rfsJ5jYO0ZBxVkoBSlKAjNf1AwQs6jc5ISNfypHO1R7MnJ9QNV/Xla2S2UFXZ5x1juisWZsbnGQdp7scgAPRW505m6tLeU+ZHdxM/qUbuP8A731s9JdIa5EJjZQY5Uk48mUc8EenHKtVJRioN7Nu/ol537WZKt5OaW6Ssu362t2IiJL6/mvbmCCdI1hCkb4w3BlU4zjPMmoXVtWlu7C3kfaJBdhcgcMhSVbHxH1VbtM0iWO+ubhiuyYIFAJ3dkAHIxgcu+oOHofcCyWHeglSfrlOWKHsgYJ25Hfy9HrrRSqUU47K2Xh+V5r2WutrmapSrSTTu75+P5lltfbS9vMy6prdykiWvjMUTqm6Wd1ABYngqoeHLH293GJ1fXHuNPuUlZGeCWNTInmSKX7Lj27T9lTt/oV40sd0nUGbZtmjYMYmweBXPHlju5c6yXfR+4ntJYZDAkjsrL1SFUAUghWOMkc+OOGfTSnUowyN20ad+Tvq9tvK2x2pTqzU0r6qSS5q2m7snfvvuSeq36QWbSORwiAA/KYrhV+JNa/QK3aOwhDDBIZ8ep3Zl+wita46NtcTI9xIHgjVOrhXzSdoDFj3Zz35Hp9FWrFZJSjGnkTu27vq4JeeprhGUqmeWiSsuva78tD7SlKoNApSlAKUpQClKUApSlAKUpQCo6/bEiH/AIZB9qVI1E62+DGfeH3aA+6lO4gleNd0ixyMi4J3OqEqPiQKq15p1xKrSWkhaOSPfC6S7d7eLERMzZ7WZdpOcg54+mt+66SW9vIkchbc+MbUZgoZljVnYcFBdlXJ9JqIludJLTPG91AyEs/izXEKSkzCFnSNDsk8q20sBnJrpw+x6VeI4wWSPxiWRiGUrh5us3FS6gKUJUjBwdxxxDV60LT2CwsxTbFAI1KMGDsVQSOWAxgFAo58ie6vMUOmSNEGN1cmXdtWY3MwG2Tq26yNuCbX4HcMCpe81GGEbdrjDLGqpEx4tGXCoqjiAoOccsYoD074Vh/wt3fk1bKqswyhPHipPHgeK+kHkatVcOilKUBp6lYxzxPFIMq4we/vBHrBwR7KpUc+pab5Mx+NWy+Yy5DKvoHDJUD1gjuNdBpV1OtkWVpNcn7cUyirQztSTakuK9Gno12opMPhJtD58Uqn2Kw+9n7KySeEeyHJZj+oB8zVonsopPPjR/eVW+YrEmkWwORbxA94jQfwqzPhv+H+r+Cv4eKX44/p/kp0nhCeQ7bW0Zz6ySf2VB+dYm0/Wb3hM4t4j/V5cPcU7j7GIroSIAMAAD1cK911YmEPl00nzfS9dPI48LOfzajfUuivLXzNLS7MQwxxA56tFTOMZ2jGceit2lKyt3d2a0rKyFKUrh0UpSgFKUoBSlKAUpSgFKUoBUJ0kziPHef8NTdResJkoPUx+1KA5zqmoxRXqGZQ4e3jjVDg738bTAAPAlchv1c1BxzgrtVhujjkR/T1bvq0LIGGeZAzg4yBXQp4MEHHIjGT7fVwqBtNUuDLs5AsAxEY4gXaxAkkH/ds37Ge/MrnDx0eulW6t99wsTnxxJCQmJZjfYaJQ3m7jggDiMYrb6Rzos9wXmeLZMhiZdu1ZPEXIBL8FDcRwGST68jPBrFx1KOVw5Eh4Rq2WCIygg8sks3Dj2fTg5sGiXMkrzLIAVURFG2r29wbcSQACcj0eo+muA8WxZrdGfzmhVm9HaMYLcPRxJ4VZqjbpOy3sPyNSVcOilKUApVJ8Mc7ppF0yMyMOpwykqRm4iBwRx5E1Seld7bJql8btb+SKOK1YCzaQLEDF5SSTa6qq+bxPf7aA7ZSq7H0v00PHALuPrHEQRC3bbrVUxcO9g6ke2qBeS3dpPq4a9mmkj09JEkfapRm3eYiYVMeoCgOw0rk/Qy18Tv7REmlMd1pvjE6ySs6mYFSZe0eyeJ5Vp9ENcuLjWri5Lt1M1jPNbIS20RRzrDG+w8AW6pm/W9dAdkpXEehySRnSLwTztNfS3CXO+VmSUeU25Q8BjaMYrBatKq2moieY3E+s+LyEysYzA0kimIR5wFwgwPRn2YA7rSuR6BHZT6nerc3UizrfnxeIXEiBlUKwAiBwwyD6K65QClKUApWKaZUG5mCgeliAPrNQGo9MrSLO0tKe5Bw/aOB9WalGEpfZVzjkluyyUrk2r+Ei8LAQxxxLkcTmRsZ7zgD6qxR+Ei+XGVhb2o2T+ywrSsFWavZeJU68EdepXMLfwoy/wBe2Q+67L8wakIfCfAfPt5B7rK3zxUXg6y/D6ElVhzL/SqfB4RrBufWp7yA/dJrfg6a6c3K4A95XX5iq3QqreL8CSnF8Sw1q3NuWIIIGARxGRg49Y7q1Ydfsn825hPq61M/UTmt+KZG81lb2EH5VW01uiSd9jRfSiebj4L/AK1g/AA/OH6v9amqVwEWmk45SH4j/Wsq2TjlIPimf8Vb9KA0XtpCMF148Po+P3q3qUoBSlKAqHhX0ya50q4hgjMkj9TtReZ2zxsefcAT8KhenUmo5vLaOwM8V1brHBLCFVlcrtkFw7NyB4g4Axgd5HRJo9ylSSMgjKkqRnuI4g+utH8Cp+duP7RL/moDFoujRxQQK8cbSxRRIX2AndGirkMRn+rwqoa90dup7rVNkZ23FhHDE5wFaQBuzn4jj66un4FT87cf2iX/ADU/Aqfnbj+0S/5qA51oujXt7MnXW0tnHDpb2DO5XcZXAUtEAeKgZIavujdBby21SPFxLJbx6eYRKyIFxvKrakL6BkPnnkV0T8Cp+duP7RL/AJqfgVPztx/aJf8ANQHMeiejahv0y1ls5Il06Sd5p2ZTE4bfs6og5fO74VhttC1A+LWBs5FFvqvjhuSy9Q0Ad2BBBzuIfzefAZ9OOqDRk/O3H9ol/wA1SdAUzobojR3OoSzQAGS9aSF2VSShRRuVuYGc1c6UoDR1a/EEZkKluIGAccT66qN90ouX4JtjHqGW+s/wAqxdLP6OfeWqQ61uwtKEo5mjHiKklKyZp3crucuzMe9iT860JkqUkHqrSnSvQijI2yDuYQT7D/Go+aLB51MXYxxqOlINaIIhKZoNJgn206816lhFY4ol3Ddnbjj7fhU8pNVD11/CvvX1qSDicd/D2VjLGo2LlJG6Z6+dfjlwrRLmvJc0JkzFrlynmXEy+7K6/I1txdN9STzbuT9ba/3warResbPUXTg90vBErvgXiz8JOrZCq6yseSmEMx9gjwTUq/hP1SEA3FmgB4AtHNCCcZwCxIJqGtNJtNvVvO0bB9sirIqBwIRLukB4lCVYLgjHWDu47Fv0dhtslZN0bsnXK2VRbcrM0wODtlYAKoIyQ6cMEgV583h9eh3Wav4FizczpPQHpY2oxSO0IiMbhMBy4OVDZ4qMVa65l4DVIt7jPPrVz+7FdNrDiYKFWUY7Jl0HeKYpSlUEjHNJtVm7gT9QzXNug+saxcta3Uk0Mtvdda0sCpHG1qillidGLb5AWUA5zj7R0a7UmNwOZVgPaQa4F0GhsxLpAt1xeo9145gOJFUK6+UzwAAwB9VAfoSlcS0/pNeGwZpbiRZVgKKTKcvI2nddAVJOS7bkbvLZ9tWKw1oLOWe9fPj0iTRvJiKKNZ7+KLiTiPcsUY2cAerVsZOSB0ulch1DVn6udmu3TN/eozLevuVIU1F7deryBbjfFEAAfKBRnhwqUt9SkZ7uHxmV5pxFGmyXhF1ziJyIjxgliy7cODqoYZIOANq56RammpvbtHEYxZ3E8MUR3PMyNiPe7AbWOMbRwG7iTWv0c1jVor61t76VJfHLeSZoliWNrVkGQuVPaX+rk+n2ccuuXccGuRyyHCRaXPI54khEk3Me88Aaqei9Jra4j1G/e5C39xa3S20Slg9vbwxSOiqwGA52byQfQDwJIoDt9K5ZNrt0rgyzGLE43gTFkVRqVjGRvIXs9W7g5A4Mwrxq2su1zcql8UDB+BnZYgiyaZ4uoZD5ASCeZOuXj5Xdk7RgC+9KvoD7y1S2FWBrkS6bBIrSOGSIhpSplYFebleyzd5HA8xUAwr0sJ8vvPPxX2+415BWrJwOe7j9tbjitOetkTK2RGqMdrE9xP25qvCY9/d8KntW+jf3TVWzW2jHQzVZam51hIP214JrAxI5jHo/0rxuFW5CCk0ZTisbKKx7q+E1HIXKq0e2jFYzHX0vXzfUHA0RrI8mKvnV1k3V5zUbGiM0yUttUjKqlxax3GwBUcvJFKFHBVMkZG9QOA3AkDhnGBS+1GJk6uK0hgXIJK75JSR6DLISdvqGKjAa+g1WqcVt6u3hexZc674FPobj9Kv3K6TXNPAkfI3P6VPuV0uvDxfz5dvsaaf2UKUpWYmKwrAgJYKoZuZAAJ9p9NZq5PbWOptd6raJfvJP4tbCOaXyap1hJcqkQxGdu7BUZzg0B1LqE/JX0HkOY5H4V8a3Q5yinJycgcTyye81yvRr9dMvNQCS3E9paWsLTq8hlIumYcELkAEqWJ9Yx6ABaZvCFaKzKElbbYDUSVC46k4ITi3n4IPdx50Ba/Fo+PYXjgnsjiRxBPfX0wJndtXdnOcDOQCoOe/BI9hNRnR7XkuxIOqkhkhcJJHKF3KWRZFOUZlIKspGDUzQGIxKTkqCcYyQM4PMeyvHikY5Rp3eaOR51sUoDC0CHmqnvyB35+YH1U8XTj2F4gKeA4qOQPq9VZqUBDdJwBBw/KWqaauPSz6D9df41Sy1ejhPl95gxS6Z5etOYVsua1JjW6JimQusDyb+6aq8Nw8bK6nDKQynAOCDkHB4Hj31adXPk3901U+FbqKTi0ZpN3Oxa9dPGsuxtuHaTkPP8eij3cfTsJX2Go3W8SQ3kjspdDqCKpXtFVntVUggYwgUL39oeuoJTrVzCSIWeN3Eu7q0Ut2xJhScHYWVWwOBNQ99rt2DJFKoVnM3WKyFWBneOSThnhxjTHqz315dLCSurOLad9Gj054mOradmuK7S7albhUmIitFEMG2J5FQqMCzLJIu04ftuVJyT1w5VX/CNpMMHUmJEUSPMeyoHBVgBU49AfrMD1mvMWtahNH/AENJozHsbyMhEn0XlGKsNz+QjGRw7PKoXXNanuiqSKAUeUgKrAgybNy4JJ4FM/E1bhsPVjUTdrK99erTz17yuvWjKDXF7aEKRXk1mZCOYI9oxXgivUsYLmOvm6shFeSK5lJxm0fAa9CvOK+g1BwNEMRzOveBH6K5/SJ9010yuZ+BH6K599PumumV83jVavI9ak7wTFKUrKWCuc6il9b3uqXVvbPIz21stvgZV5B2TjvC7txHcpro1UO96Z3MMElw8EfV9dsiIfiUSW4W43A8dyRW5kzwB34HmnIFa0qxuPwVc2f4PuxPJGZppZlQ+MXDSR7wMMSTgnGRyQ541qw9DryPxzyLsXtNQtosL/ukNvFZxj2rG7D21eZulc8e+SSJBbi5MCuCzONk7wvuUcSTt3DAwAcHvr30N6Uy3rkMsaAQ28m0ByxM1tbzk7j2QoMzLjn2QaAw+Dixli8bLRTRxSTRtELk7rg4gjSQuxZmK7lO3J5VdaUoBSlKAUpSgITpcfxf9df41RWarx0x/o/66/xqhsa9HCfL7zFiF0w7VqSvWSRq1ZmrbEySiR2rnyb+6ahejlsJbqCNhlWkXcO9QcsPiARUlq7+Tf3TUX0QnxeQE+hj91q1qVqcrcn6FPw+muR1/Xuli2kkCGMt1zbSQ2NigqM4xx87lw5Gonp3pKT3ljkDyjmKTvKIVfH1Fx8arfhIux1lsw44DHHsZDW1adLfHby0HVdXskdvP35zGw/JGK86lQcIxqw5Su+52Nk6ik5QlzVvFFt6SaxDZyQRbSetOBtwAi5VQcd3Hl6jUVrtiF1CzmAwzM6P68ISpPrxuHwHdUP4S5c3Nt6l/wDJVx6SkNPY+u4YZ/6MlRilTjTlxkpX8zsulKa5NWMN3rMS3CWrht0iblOAUPndk8c57J9GKrkWjRxakyIoCPAZAo5KS4UgD0DKk/Gs3SCPbq9qOfk1PwzNW85//qL/AMof701OKyRWV7wbfiyLeaTvwlYr+uX9tG8kRzvUYPYyMlcjj8RVZ6OyosuZNuNhHaxjOR3/ABra6aD8dn95f7tK89FdLS4mKOMgRs3AkcQVHo9pr0IU4woZnezSb8OBicnKrZcyS6MmFrydmSN0IO0FVZeLDiARipTXNZ0l7aZI44hMUwhWDawbI5Ps4en01FaPZ9XcXCLyQ7R6eGT/ACqv3GnTIu50IB9PD094HL41X8GFSpdt6WtrbgWKtKENFzOmeBIeTuffj+61dNrmfgU+juffj+61dMrxsf8AeJnqYT5MewUpSsZoFVO46A6fJv6xGcOzNh3LKuRcYCqeACm5nYekM+fQMWylAV+LonarIZB1hYuJBlyQrBzIdo9AZyWPeayaH0ahtGzC0oBSNChfKHqoo4Ubb+VsiQZ9tTlKAUpSgFKUoBSlKAgOmh/F/wBdf41QGar703/o3/UX5Gufsa9DCvod5mrRuz5Iw/8AfbWq8ihWGOJxg92Dk/ZwrI7VqTGt0dTK1bcidYPk390/KoboyD41Dwx2j901L6wfJv7pqO6GgvfWyk82IH7DYFXXtCRBx6SsSPT5+1D7r/Na0uhMv49B7x+41TnhEsilxaj8okD19tB/EVtauoS4tOAHlJOQx/Ux/Gq4Vf8AUo80/c64Wld8D54SJPxm393/AMlW7XZD19l/zDf3Mlc/6bOWntvqH7Y/mKu2t3CtPY4PO4bh/wBGT+YrPLSFNclL3LEruT52J0TWpuV3BDcCPKkjtiPJHAn0ZLDh3mqtpryPrM4faCsTBQvIJ5Mpz7w2T6yaxapOU1i2H5UJX6+ux9oFbUY2auT+XbbvqYJ/hFQhFQi7cYeGvDwJTTk11SMPTDpJCqz2hWTrMBc4XZk7W57s8j3VCeDk/jZ/Qv8AeSozptJm+n9qf3aVv+Donxo4/Mv95K9FU4wwsrcVd+CMLk5YhX4M3PwtFbXd3vRm3vgbccMFueT6xXu3ZrmymkcAFesHZGB2UDjh8fsra0rToZ7u961A5V125JGM788j6h9Veei4P4MusjH03P1QqD9oIqE3BRul0lk9OAjmzWvo8xNeBgeTuffj+61dKrm/gc8y596P5PXSK8n/ACP3mfaengXfDw7PcUpSsRqFKVilmVfOIGeAyeZ7h3mgMtKweNL3P+7f+VPGV7n/AHb/AMqAz0rB4yvc/wC7f+VPGV7n/dv/ACoDPSsMcwbOM8PQQVPHlwI9RrNQClKUBXenP9GH6Rfk1c7Y10Pp2fxYfpF+TVzlzXo4Vf6+9maq7SPDmtWY1nc1qz8K1RINXInVj5N/dNV7S75reaKZRkxOsgHftIJXPoB5fGp3Vm8m/umqsCa0ws00zPKLi9Dvh6R6NdJHK81uGU71Wcqskb+nAfiD617uFcz6bdIo5bqNrY7kgOVYggO+4FiAeO3sgfXVRzQVVSwipu6bZKVbNurHR01+xkCuzqGHEK69tG9XDn6xUPd9Jke8gkBIihLHdg5JYEE7eeOQ+uqgK9ZqcaMUc3LbrPSWOS/t7lSSsXVhuyQcLIxfAPPstU9d9M7E3cU69aVWGWNuxg5Zo2TAJ4jg/wBlc0r1mjoQdupW7jqk0dSm8IlnggJOcg/1EH+Oqf0O11LSbrJFZh1bJhMZySp9JHDgartKnChThGUVs9yE8zafIulh0qVLyWcIxjmJyvAMOOQeeMjjwz6TUhr3TJZojFCrAPwZnwDt5kAAnn3+2ueg1lSWrVSpOSk1qvbYol8RJpcfc7L4GTlbr3ovk9dKrl3gPfKXXvRfKSuo14P+Qd8TP+8D08GrUIr+7ilKVjNJjlkCqWPIAk+wDJqIW92XUcDLmSaCWYvnzeqeFerAx5vle8ebnmSalL36N/cb5GoXVtOujeQXMBhIjilhkWUuDtlkhcsm0HiBEeffQEV/tw4tZ7p7NxGiK8JD7hOHlaFEzt7EhYL2O1wdePoqW1HpIIrWG6SJpUlMHmsoCLOUCuxY5K5dfNBPEcMZIq1t4PbjtK00aKTapviyJGitppJ1kO9Soly0a44rhOfoqdHRqb8GRWRdC8Xi67uO0pBPG49GclIwOXOgNe46bSo8kbWbK+6EQK0oBkE1y1tG0nZzCCy7hwbKnvyK8QdPCzQgWx2v1AmPWjMT3FxJaxqq7fKjrI2ycrhcEZPCsEvRa/czu7Wxle6hukfMna8XlV4bd+z2IwgIyuTlmODk1jt+hF0jQ+WhK/izXBw4YNbXct3iIcirGUp2iMBc8c4oC9p9I3uJ83rPWratuLP6DgL61Ge18ST8AD6a2qAUpSgK10+P4sP0i/Jq5w5ronhBbFqP0q/Jq5lJLXq4NXpd7MOIlap3GRkJBIHBcZ+JxWhM1ZjdEAgHgeB+ByK0ZZq05RFmhqh8m/umqyKsGpS5RvdNV6pxJn3Neq8V6qSdiDgme80rzSrFPmVOk1seqV8zX2pWXAjma3PVfRXivoNLElJMyLXuvOV2jgd2ePdivua6DrvgKPZu/eh+UldVrk/gJ/8Ame2D5S11ivnsZ8+Xd6I30V0EKUpWYsPEiBgQeRBB9hrH4sve/wC8f+dZ6UBWF6U6cUDi4baX6vOZ+e0Nu5cI9rK3WeZhgd2DXt+kmnAuGuSOrdkfLTABlWVmwTwZQIJ+0MjMTDORiqzP0V1BoWiCQKp6+JUEzFIY54kDvGSmerEisyxHiA2A2AAPmq9DL6dDCeoRUu5J4pAS0jbnv5UL5XzA1xbr1fHlLx4igLNcdJLBOs3SzDqiokIS6IUsFYKSFxnDqccxuGamY4I3AbtMCAQHLkYPEZRzz9oyKqn4Bu28eyig3TRyKevZkBCQKU6rbtU5R+2OJAXPqu9AKUpQClKUBTvCjLtsgf8A7UH2NXIXvvXXdelWgJfQdS7sg3Bwy4JyucZB5jjXMNV8E96nGCWKYdxzE/1HK/8AcK9bA16UaeWbs7mDE0qkp5oq6sVF7ysD3Ve9W0C+ts9fbSoBzYqWT94uV+2oQzVuaTV46ophJrSRt3U2VPsqLrM8mRWEVyKLnOwr7mlKWJKSex9zTNfK+7gOZpY6fRXqvMR3HC9o9y8T9Qrfh0W8fzLW4b3YJW+S0uo7i1zXghLEgY4DPGvAPI99Ttt0K1VvNspx7V6v75FSFt4MtXbnbBPfmiH3WJrv/oppayXiip0HfQqo5c/TyoDV8h8EWpnm1svtlcn6ljNScHgauD591Evuxu/zK1F4yhxkvP2OfBq8rm54Bzxvf/z/APmrrVU/oF0M/BvXeX60zdXnyfVher38u0c53/ZVwrxcVUjUrSlHb+DdSTUEmKUpWcsFKUoBSlKAUpSgFKUoBSlKAUpSgFQGrdDtOucma1jLHmyjq3/bTDfbU/SuptO6djjV9zlmq+Be1c5t7mWLjydRMoHcOKt9ZNeIfApB/vLyU+5GifPdXVqVesVWStmZD4UORzm38Dumr50lw/tkQD/tQVIQeC3SF527N7003yDAVdqVF4is95vxOqnDkitQdA9KXlYwH3k3/fzUlbaBZR/R2sCe7DGvyFSdKrcpPdslZHiONV4AAewYr3SlROilKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUApSlAKUpQClKUB//2Q==",
+		"stock": 20,
+		"description": {
+			"texto": "Mejora tu experiencia de juego con el Procesador gamer Intel Core i5-10400F, diseñado para brindarte un rendimiento óptimo en tus partidas. Con sus 6 núcleos y 12 hilos de CPU, este procesador te permitirá disfrutar de tus juegos favoritos sin interrupciones ni demoras. Gracias a su arquitectura x86-64 y su frecuencia máxima de reloj de 4.3 GHz, podrás ejecutar múltiples aplicaciones y juegos de manera fluida y eficiente. Además, su compatibilidad con memoria RAM DDR4 y su capacidad para soportar hasta 128 GB de memoria, te aseguran una experiencia de juego inigualable. La tecnología hyper-threading te brinda un rendimiento aún más rápido y eficiente en tus tareas diarias. Con una litografía de 14 nm y una potencia de diseño térmico de 65 W, este procesador es una opción ideal para aquellos que buscan un rendimiento excepcional sin sacrificar la eficiencia energética. No esperes más y lleva tu experiencia de juego al siguiente nivel con el Procesador gamer Intel Core i5-10400F.",
+			"ram-soportada": "DDR4",
+			"nucleos": 6,
+			"sockets": "FCLGA1200",
+			"generacion": 10,
+			"frecuencia-max": "4.3 GHz",
+			"frecuencia-min": "2.9 GHz",
+			"marca": "Intel",
+			"modelo": "i5-10400F"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 39,
+		"name": "Procesador gamer Intel Core i5-10400 BX8070110400 de 6 núcleos y 4.3GHz de frecuencia con gráfica integrada",
+		"precio_actual": 203292,
+		"img": "data:image/jpeg;base64,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",
+		"stock": 20,
+		"description": {
+			"texto": "Productividad y entretenimiento, todo disponible en tu computadora de escritorio. La superioridad tecnológica de INTEL es un beneficio para todo tipo de profesionales. Asegura el mejor rendimiento de las aplicaciones, de la transferencia de datos y la conexión con otros elementos tecnológicos.",
+			"ram-soportada": "DDR4",
+			"nucleos": 6,
+			"sockets": "FCLGA1200",
+			"generacion": 10,
+			"frecuencia-max": "4.3 GHz",
+			"frecuencia-min": "2.9 GHz",
+			"marca": "Intel",
+			"modelo": "i5-10400"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 40,
+		"name": "Procesador gamer Intel Core i5-12400F BX8071512400F de 6 núcleos y 4.4GHz de frecuencia",
+		"precio_actual": 275287,
+		"img": "data:image/jpeg;base64,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",
+		"stock": 20,
+		"description": {
+			"texto": "Productividad y entretenimiento, todo disponible en tu computadora de escritorio. La superioridad tecnológica de INTEL es un beneficio para todo tipo de profesionales. Asegura el mejor rendimiento de las aplicaciones, de la transferencia de datos y la conexión con otros elementos tecnológicos.",
+			"ram-soportada": "DDR4,DDR5",
+			"nucleos": 6,
+			"sockets": "FCLGA1700",
+			"generacion": 12,
+			"frecuencia-max": "4.4 GHz",
+			"frecuencia-min": "2.5 GHz",
+			"marca": "Intel",
+			"modelo": "i5-12400F"
+		},
+		"categoria":"procesador"
+	},
+	{
+		"id": 41,
+		"name": "Gabinete Gamer Andromeda Atx Vidrio Templado X3 Fan Rgb",
+		"precio_actual": 62999,
+		"img": "https://i0.wp.com/uranostream.com/wp-content/uploads/2023/06/Gabinete-Mid-Tower-Level-Up-Andromeda-Rgb_44029_1-jpeg.webp?fit=900%2C900&ssl=1",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "Level Up",
+			"linea": "Gamer",
+			"modelo": "Andromeda",
+			"color": "negro"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 42,
+		"name": "Gabinete Pc Super Gamer Vidrio Templado 6 Coolers Rgb",
+		"precio_actual": 69480,
+		"img": "https://http2.mlstatic.com/D_Q_NP_759447-MLU54959619263_042023-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "Solarmax",
+			"linea": "GMX",
+			"modelo": "CM-5901",
+			"color": "negro"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 43,
+		"name": "Gabinete Pc Kit Overtech Ov-k910 Negro Con Fuente 6500",
+		"precio_actual": 38000,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_873241-MLA43823801502_102020-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "KIT OVERTECH OV-K910 Incluye: - Gabinete - Parlante - Mouse - Teclado Color: Negro Incluye fuente de alimentación OVERTECH OK-6500",
+			"marca": "Overtech",
+			"linea": "900",
+			"modelo": "K910",
+			"color": "negro"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 44,
+		"name": "Gabinete Solarmax 5920 Blanco 6 Fan Rgb Vidrio Templado",
+		"precio_actual": 91179,
+		"img": "https://mexx-img-2019.s3.amazonaws.com/Gabinete-Mid-Tower-Solarmax-5920-Blanco-6-Fan-Rgb-Vidrio-Templado_45854_1.jpeg",
+		"stock": 20,
+		"description": {
+			"texto": "El Gabinete Solarmax 5920 Blanco 6 Fan Rgb Vidrio Templado 1 es la elección perfecta para los gamers que buscan un diseño moderno y funcional. Con su estructura tipo Mid tower y su color blanco, este gabinete se adapta a cualquier estilo de decoración. Cuenta con dos bahías para discos de 2.5 y 3.5, ofreciendo amplio espacio de almacenamiento para tus juegos y archivos. Además, su panel frontal incluye puertos USB para facilitar la conexión de tus dispositivos.",
+			"marca": "Solarmax",
+			"linea": "Gamer",
+			"modelo": "CM-5920",
+			"color": "blanco"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 45,
+		"name": "Gabinete Gamer Xigmatek Medusa Atx Vidrio Templado X1 Fan Color Negro",
+		"precio_actual": 53000,
+		"img": "https://http2.mlstatic.com/D_Q_NP_896463-MLU70417295231_072023-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "Xigmatek",
+			"linea": "ATX",
+			"modelo": "Medusa",
+			"color": "Negro"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 46,
+		"name": "Gabinete Gamer Xigmatek Atx Vortex Rgb Vidrio Templado Color Negro",
+		"precio_actual": 47250,
+		"img": "https://app.contabilium.com/files/explorer/7026/Productos-Servicios/concepto-10027427.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "Xigmatek",
+			"linea": "Gamer",
+			"modelo": "Vortex",
+			"color": "Negro"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 47,
+		"name": "Gabinete Gamer Xigmatek Aquarius Pro Arctic 7 Coolers Argb",
+		"precio_actual": 260000,
+		"img": "https://peritastech.com.ar/wp-content/uploads/2023/01/AQUARIUS-X7.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "Xigmatek",
+			"linea": "AQUARIUS PRO ARCTIC",
+			"modelo": "AQUARIUS PRO ARCTIC",
+			"color": "Blanco"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 48,
+		"name": "Gabinete Thermaltake Ah T200 Snow White Micro Y Mini Atx Usb",
+		"precio_actual": 124500,
+		"img": "https://www.topcomputacion.com.ar/wp-content/uploads/2023/06/thermaltake_ah_t200_snow1.jpg",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "ThermalTake",
+			"linea": "AH",
+			"modelo": "AH T200",
+			"color": "Blanco"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 49,
+		"name": "Gabinete Corsair Obsidian Series 1000d",
+		"precio_actual": 410599,
+		"img": "data:image/jpeg;base64,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",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "Corsair",
+			"linea": "Obsidian",
+			"modelo": "1000D",
+			"color": "Negro"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 50,
+		"name": "Gabinete Corsair Icue 5000x Rgb Blanco Vidrio Templado Atx",
+		"precio_actual": 222199,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7tk1Dku9391aMbzdcR5i1ITLEjfv6JyVMQ-s562ABFTyc2Mun9AOw1MWvN5IwcVZaVE&usqp=CAU",
+		"stock": 20,
+		"description": {
+			"texto": "",
+			"marca": "Corsair",
+			"linea": "iCUE 5000X RGB",
+			"modelo": "5000X",
+			"color": "Blanco"
+		},
+		"categoria":"gabinete"
+	},
+	{
+		"id": 51,
+		"name": "Disco Externo Toshiba Canvio 2tb Black Usb 3.0 Hdtb520xk3aa",
+		"precio_antiguo": 102000,
+		"precio_actual": 97300,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_968592-MLU70045316706_062023-O.webp",
+		"stock": 20,
+		"description": {
+			"texto": "Si estás buscando un disco duro para mejorar el rendimiento de tu equipo, el Toshiba HDTB520XK3AA es lo que necesitás. Al ser HDD, su practicidad y valor económico respecto a otros tipos de discos marcan la diferencia.",
+			"capacidad": "2TB",
+			"interfaces": "SATA 3",
+			"velocidad": "7.2 rpm",
+			"tecnologia": "HDD",
+			"aplicaciones": "PC,Notebook,Consola de Videojuegos",
+			"factor": "Externo"
+		},
+		"categoria": "almacenamiento"
+	}
+]
