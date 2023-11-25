@@ -66,16 +66,8 @@ function CartContextProvider({ children }) {
 
     const isInCart = (id) => cart.find((prod) => prod.id === id) !== undefined;
 
-    const removeProduct = (id) => {
-        const removedProduct = cart.find((product) => product.id === id);
-    
-        if (removedProduct) {
-            setCart(cart.filter((product) => product.id !== id));
-            setTotalStock((prevTotalStock) => prevTotalStock + removedProduct.quantity);
-        } else {
-            console.error('Intento de eliminar un producto inexistente:', id);
-        }
-    }
+    const removeProduct = (id) =>
+    setCart(cart.filter((product) => product.id !== id));
 
     return (
         <cartContext.Provider

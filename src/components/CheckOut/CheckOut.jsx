@@ -57,7 +57,7 @@ const CheckOut = () => {
                 addDoc(collection(db, 'orders'), orden)
                     .then((orderRef) => {
                         setOrdenId(orderRef.id);
-                        removeProduct(id);
+                        
                     })
                     .catch((orderError) => {
                         console.error('Error en creación de orden', orderError);
@@ -68,7 +68,7 @@ const CheckOut = () => {
                 console.error('No se puede actualizar el stock', stockError);
                 setError('No se actualizó el stock');
             })
-
+        removeProduct();
         setNombre('');
         setApellido('');
         setTelefono('');
@@ -81,75 +81,71 @@ const CheckOut = () => {
             <div className="row">
                 <h2 className='titleCheckout'>Llena el formulario para contactarnos</h2>
             </div>
-            {cart.map((item) => (
-                <div className="itemCheck text-center" key={item.id}>
-                    <p>
-                        {''}
-                        {item.name}{item.quantity}
-                    </p>
-                    <p>Cantidad: {item.quantity}</p>
-                    <p>Precio unitario: ${item.price}</p>
-                    <p>Total a Pagar: ${item.price * item.quantity}</p>
+            <form onSubmit={manejadorFormulario}>
+                
+                <div className="formGroup">
+                    <label className="labCheck">Nombre</label>
+                    <input
+                        className='inputCheck'
+                        type="text"
+                        value={nombre}
+                        onChange={(e) => setNombre(e.target.value)} />
                 </div>
-            ))}
-            <div className="formu">
+                <div className="formGroup">
+                    <label className="labCheck">Apellido</label>
+                    <input
+                        className='inputCheck'
+                        type="text"
+                        value={apellido}
+                        onChange={(e) => setApellido(e.target.value)} />
+                </div>
+                <div className="formGroup">
+                    <label className="labCheck">Telefono</label>
+                    <input
+                        className='inputCheck'
+                        type="number"
+                        value={telefono}
+                        onChange={(e) => setTelefono(e.target.value)} />
+                </div>
+                <div className="formGroup">
+                    <label className="labCheck">Email</label>
+                    <input
+                        className='inputCheck'
+                        type="email"
+                        value={email}
+                        onChange={(e) => setEmail(e.target.value)} />
+                </div>
+                <div className="formGroup">
+                    <label className="labCheck">Email confirmación</label>
+                    <input
+                        className='inputCheck'
+                        type="email"
+                        value={emailConfirmacion}
+                        onChange={(e) => setEmailConfirmacion(e.target.value)} />
+                </div>
+                {error && <p className="error-campos">{error}</p>}
+                {ordenId && (
 
-                <form onSubmit={manejadorFormulario}>
-                    <div className="formGroup">
-                        <label className="labCheck">Nombre</label>
-                        <input
-                            className='inputCheck'
-                            type="text"
-                            value={nombre}
-                            onChange={(e) => setNombre(e.target.value)} />
+                    <div className='ordenContainer'>
+                        <p className='orden'>
+                            ¡Gracias por tu compra! <br />Este es tu número de orden: {' '}{ordenId}{' '}
+                        </p>
                     </div>
-                    <div className="formGroup">
-                        <label className="labCheck">Apellido</label>
-                        <input
-                            className='inputCheck'
-                            type="text"
-                            value={apellido}
-                            onChange={(e) => setApellido(e.target.value)} />
-                    </div>
-                    <div className="formGroup">
-                        <label className="labCheck">Telefono</label>
-                        <input
-                            className='inputCheck'
-                            type="number"
-                            value={telefono}
-                            onChange={(e) => setTelefono(e.target.value)} />
-                    </div>
-                    <div className="formGroup">
-                        <label className="labCheck">Email</label>
-                        <input
-                            className='inputCheck'
-                            type="email"
-                            value={email}
-                            onChange={(e) => setEmail(e.target.value)} />
-                    </div>
-                    <div className="formGroup">
-                        <label className="labCheck">Email confirmación</label>
-                        <input
-                            className='inputCheck'
-                            type="email"
-                            value={emailConfirmacion}
-                            onChange={(e) => setEmailConfirmacion(e.target.value)} />
-                    </div>
-                    <div className="checking">
-                        <button type='submit' className='enviarForm'>
-                            Finalizar compra
-                        </button>
-                    </div>
-                </form>
+                )}
+
+                <div className="checking">
+                    <button type='submit' className='enviarForm'>
+                        Finalizar compra
+                    </button>
+                </div>
                 <div>
                     <Link to='/'>
                         <button className='btnVolver'>Volver a home</button>
                     </Link>
                 </div>
-            </div>
+                
+            </form>
         </div>
-
-
     );
 };
 
