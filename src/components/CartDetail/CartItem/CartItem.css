@@ -9,6 +9,7 @@
 }
 .cartCardImg{
     height: 10rem;
+    padding: .5rem;
 }
 .cartTitle{
     font-size: 1.5rem;

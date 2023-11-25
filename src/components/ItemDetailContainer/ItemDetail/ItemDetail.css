@@ -75,3 +75,23 @@
 .cardStock{
     font-size: 1.5rem;
 }
+.terminarContainer{
+    margin-top: 2rem;
+}
+.terminarCompra{
+    width: 90%;
+    height: auto;
+    max-width: 30rem;
+    min-height: 20rem;
+    background-color: #f7fafc;
+    padding: 1rem;
+    border-radius: .5rem;
+    color: var(--wild-blue-yonder-800);
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 2rem;
+}
+.terminarCompra:hover{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 10px;
+}
