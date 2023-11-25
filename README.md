@@ -1,27 +1,18 @@
-# React + Vite
+Proyecto Final curso React Coderhouse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Utilizando React + Vite, pude llevar a cabo este proyecto.
 
-Currently, two official plugins are available:
+### Instalación y configuración del entorno de desarrollo:
+1. Instalar Node.js:
+https://nodejs.org/es/download/
+2. Intalar dependecias:
+npm install
+3. Iniciar el servidor de desarrollo:
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-useEffect(()=>{
-        const fetchData = async()=>{
-            try{
-                setIsLoading(true);
-                const data = await new Promise((resolve)=>{
-                    setTimeout(()=>{
-                        resolve( id ? arrayProductos.filter((item) => item.categoria === id) : arrayProductos)
-                        },2000);
-                });
-                setItem(data);
-            }catch(error){
-                console.log('error',error)
-            }finally{
-                setIsLoading(false);
-            }
-        };
-        fetchData();
-    },[id])
+Link del deployment: https://65615c2f6234c4592ce4213a--mellow-melba-817107.netlify.app/
+
+Link del repo: https://github.com/AlanMaldonado25/EntregaFinal-AlanMaldonado-React.git
+
+Alan Maldonado
